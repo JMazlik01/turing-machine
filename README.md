@@ -16,7 +16,7 @@ Create new turing machine by calling `turing-machine` function
  :FINAL-STATE (Q2 Q3) 
  :DESCRIPTION "Example turing machine")
 
-> (instructions *)
+> (description *)
 
 "Example turing machine"
 ```
